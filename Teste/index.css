@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+#teste{
+    height: 100px;
+    width: 100vw;
+    background-color: blue;
+}
+
+#teste1{
+    height: 100%;
+    width: 50%;
+    background-color: red;
+    
+}
+
